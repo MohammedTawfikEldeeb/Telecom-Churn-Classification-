@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+sklearn-features
+datasist
+imbalanced-learn
+xgboost
+tensorflow
+mlflow
+dagshub
